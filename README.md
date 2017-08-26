@@ -1,1 +1,1 @@
-# Notes for CSS Mastery
+# Note for CSS Mastery
